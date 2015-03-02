@@ -1,5 +1,7 @@
 = Le Coût de la Vie
 :hp-tags: vie quotidienne, budget, transports, sorties, téléphone, shopping
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/2.cout_de_la_vie.jpg
+
 
 La Finlande, c'est cher. Forcément, c'est un petit pays qui a masse d'argent, donc ils ont des gros salaires et tout coûte cher ! Awesome...
 
