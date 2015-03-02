@@ -1,7 +1,9 @@
 = Le Coût de la Vie
 :hp-tags: vie quotidienne, budget, transports, sorties, téléphone, shopping
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/2.cout_de_la_vie.jpg
 
-La Finlande, c'est cher. Forcément, c'est un petit pays qui a masse d'argent, donc ils ont des gros salaires et tout coûte cher ! Awesome...
+
+La Finlande, c'est *cher*. Forcément, c'est un _petit pays qui a masse d'argent_, donc ils ont des gros salaires et tout coûte cher ! Awesome...
 
 A noter, un post réservé à l'hébergement sera créé un peu plus tard !
 
@@ -41,6 +43,6 @@ Je n'ai pas beaucoup plus d'infos à ce niveau, je demanderais aux anciens teks 
 
 Apparemment au niveau des fringues, jeux vidéos etc. c'est plus ou moins la même chose qu'ici.
 
-NOTE: Article écrit par Coline
+NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
 
 NOTE: Sources : de mes expériences, mes connaissances finlandaises et Internet
