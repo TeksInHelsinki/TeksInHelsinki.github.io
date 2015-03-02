@@ -1,6 +1,10 @@
 # How to use asciidoc
 :some_label: lets add a label
 
+:hp-tags: how to use tags, #NotHashtag, But it doesn't work yet
+
+
+
 
 link:http://powerman.name/doc/asciidoc[here's a good link]
 
@@ -50,5 +54,6 @@ Author Name <link:github.com/ArmandDu[Supreme leader]> // yes you can use label
 
 
 NOTE: this is a note 
+
 
 
