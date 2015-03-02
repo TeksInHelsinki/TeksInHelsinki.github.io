@@ -1,7 +1,7 @@
 = Tervetuloa !
 
 :hp-tags: Présentation, Introduction, Finlande, Laurea
-
+:published_by: Coline
 
 Nous sommes cinq étudiants d'Epitech - école d'expertise informatique française - et nous passerons notre quatrième année (2015/2016) en Finlande ! Plus précisément, nous avons été accepté à l'université de Laurea, à Espoo, près d'Helsinki. +
 C'est pour cette raison que nous avons aujourd'hui décidé de faire un blog, dans un premier temps pour partager nos ressources sur la Finlande, sa culture etc., et plus tard pour raconter notre expérience, que ce soit au niveau des cours que nous suivrons ou de la vie sur place.
