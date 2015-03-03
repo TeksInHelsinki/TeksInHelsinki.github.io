@@ -3,6 +3,8 @@
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/6.sports.jpg
 :published_at: 2015-03-03-14:20
 
+Le sport est important pour de nombreux Finlandais. Voici donc un post présentant les principaux sports pratiqués en Finlande, et indiquant des endroits où on pourra nous aussi faire du sport !
+
 === Le Hockey sur Glace
 
 Le hockey sur glace est LE sport en Finlande. Un peu l'équivalent du foot en France, quoi.
