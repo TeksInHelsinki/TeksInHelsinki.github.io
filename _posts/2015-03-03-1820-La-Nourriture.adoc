@@ -7,6 +7,7 @@ En tant que Français, on ne peut pas faire l'impasse sur cette importante parti
 
 === Le Salmiakki !
 
+[[image]]
 image::https://TeksInHelsinki.github.com/images/article_images/7.food_salmiakki.png
 
 Le salmiakki est une sorte de réglisse salé très largement répandu en Finlande, non seulement sous des formes très variées de bonbons (piquant ou pas, pastilles ou gommes, etc.) mais également en glaces, chocolats, liqueurs etc.
@@ -15,7 +16,7 @@ Et c'est sensé être bon pour la santé, mais si vous en mangez trop vous aurez
 
 === Le Reine (_Poro_)
 
-image:https://TeksInHelsinki.github.com/images/article_images/7.food_poronkaristys.jpg
+image::https://TeksInHelsinki.github.com/images/article_images/7.food_poronkaristys.jpg
 
 La viande de reine est assez répandue en Finlande, même si elle reste assez chère (n'allez pas imaginer qu'ils en mangent autant que du porc ou du poulet). C'est assez bon et neutre.
 
