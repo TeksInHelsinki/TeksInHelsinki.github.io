@@ -82,3 +82,5 @@ link:http://forenom.fi/[Forenom], un site pour trouver des appartements pas trop
 NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
 
 NOTE: Sources : les anciens d'Epitech, mes connaissances finlandaises et Internet
+
+NOTE: link:http://www.swisspearl.com/projects/buildings/residential/residential-building-espoo/[Crédit photo de couverture]
