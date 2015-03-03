@@ -1,7 +1,9 @@
 = Le Sport
 :hp-tags: Les tutos de Coleen, Point Culture, sport, hockey sur glace, Formule 1, ski
-:hp-image: https://TeksInHelsinki.github.com/images/article_covers/5.hebergement.jpg
-:published_at: 2015-03-03-15:00
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/6.sports.jpg
+:published_at: 2015-03-03-14:20
+
+Le sport est important pour de nombreux Finlandais. Voici donc un post présentant les principaux sports pratiqués en Finlande, et indiquant des endroits où on pourra nous aussi faire du sport !
 
 === Le Hockey sur Glace
 
@@ -49,3 +51,10 @@ Quelques exemples de complexes sportifs assez connus : +
 
 Donc voilà, il y a des salles de sport et des piscines partout ! Apparemment c'est moins cher plus on s'éloigne des centres ville. En plus des tarifs étudiants, il y a souvent des cartes de 10 tickets qui donnent une certaine réduction.
 Et pour les adeptes du jogging il y a de la nature partout pour aller courir donc c'est cool !
+
+NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
+
+NOTE: Sources : les anciens Epitech, mes connaissances finlandaises, mes expériences et Internet
+
+NOTE: link:https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen[Crédit photo de couverture], Kimi Räikkönen chez Lotus en 2012
+
