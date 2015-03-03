@@ -16,7 +16,7 @@ Et c'est sensé être bon pour la santé, mais si vous en mangez trop vous aurez
 
 === Le Reine (_Poro_)
 
-image::https://TeksInHelsinki.github.com/images/article_images/7.food_poronkaristys.jpg
+image::https://TeksInHelsinki.github.com/images/article_images/7.food_poronkaristys3.jpg
 
 La viande de reine est assez répandue en Finlande, même si elle reste assez chère (n'allez pas imaginer qu'ils en mangent autant que du porc ou du poulet). C'est assez bon et neutre.
 
@@ -32,6 +32,8 @@ C'est à base d'eau, de farine et de malt de seigle, de mélasse et de sel, et l
 
 
 === Les Pains
+
+image::https://TeksInHelsinki.github.com/images/article_images/7.food_bread.jpg
 
 Même si on peut sûrement trouver de la baguette dans les supermarchés, la Finlande a des pains assez spéciaux qui valent le détour.
 
@@ -54,16 +56,15 @@ Enfin, le nombre de chansons qui parlent d'alcool ou de se bourrer la gueule est
 
 === D'autres Plats Typiques
 
-- Les cloudberries (lakka), des sortes de framboises oranges dont la confiture est à tomber
-- Le leipäjuusto ("fromage de pain") : un fromage circulaire et plat, cuit au four, qui a une texture de plastique et qui fait un bruit TROP bizarre quand on croque dedans (selon Wikipédia, il couine, et c'est un peu ça en effet)...
-- Les karjalanpiirakka ("tartes de Karélie"), des petits truc salés qui sont en gros du riz dans de la pâte passés au four
-- Les voisilmapulla ("oeil brioche au beurre"), des brioches à la cardamone avec plein de beurre et de sucre qui sont juste trop bonnes !
-
-- La saumon (lohi) : très présent dans la cuisine finlandaise en général, on le trouve notamment sous forme de gravlax (graavilohi), donc en fines tranches et mariné dans des herbes, de la vodka ou plein d'autres trucs, et de soupe (lohikeitto) où il est cuit avec beaucoup de lait et d'herbes.
+- Les cloudberries (_lakka_), des sortes de framboises oranges dont la confiture est à tomber
+- Le _leipäjuusto_ ("fromage de pain") : un fromage circulaire et plat, cuit au four, qui a une texture de plastique et qui fait un bruit TROP bizarre quand on croque dedans (selon Wikipédia, il couine, et c'est un peu ça en effet)...
+- Les _karjalanpiirakka_ ("tartes de Karélie"), des petits truc salés qui sont en gros du riz dans de la pâte passés au four
+- Les _voisilmapulla_ ("oeil brioche au beurre"), des brioches à la cardamone avec plein de beurre et de sucre qui sont juste trop bonnes !
+- La saumon (_lohi_) : très présent dans la cuisine finlandaise en général, on le trouve notamment sous forme de gravlax (_graavilohi_), donc en fines tranches et mariné dans des herbes, de la vodka ou plein d'autres trucs, et de soupe (_lohikeitto_) où il est cuit avec beaucoup de lait et d'herbes.
 
 
 === Divers
 
-Un petit point rapide sur les fast-food : non seulement il y a les McDo habituels, et un Burger King à Helsinki, mais il y a également "Hesburger", une chaîne de fast-food finlandaise franchement sympa présente un peu partout.
-Concernant les petits déjeuners, ils sont en général salés, par exemple des sandwichs de jambon et concombre.
+Un petit point rapide sur les fast-food : non seulement il y a les McDo habituels, et un Burger King à Helsinki, mais il y a également "Hesburger", une chaîne de fast-food finlandaise franchement sympa présente un peu partout. +
+Concernant les petits déjeuners, ils sont en général salés, par exemple des sandwichs de jambon et concombre. +
 Les Finlandais boivent beaucoup de lait, tout le temps, genre en accompagnement de leurs repas.
