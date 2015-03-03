@@ -1,6 +1,7 @@
 = Les Bases de la Culture Finlandaise
 :hp-tags: Point Culture, Sisu, sauna, nature, kalevala, culture
-:hp-image: https://TeksInHelsinki.github.com/images/article_covers/3.temps_et_vetements.jpg
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/4.bases_culture.jpg
+:published_at: 2015-03-03-01:00
 
 Le but de ce post est de vous renseigner sur certains points essentiels de la culture finlandaise !
 
@@ -48,3 +49,7 @@ Au passage, Tolkien s'est inspiré de ce bouquin pour Le Seigneur des Anneaux ! 
 
 Si vous aimez lire des aventures épiques, ou que vous aimez juste la mythologie en général, je vous conseille vivement de lire ce livre ! La traduction française est très agréable, et d'autant que je puisse en juger c'est bien traduit, surtout pour des poèmes dont les "rimes" se font sur l'accent tonique de la première syllabe du vers en version originale xD Je n'ai lu que le début pour l'instant, mais j'ai trouvé ça génial ! +
 Références si besoin : "Le Kalevala", éditions Honoré Champion, collection Champion Classiques, traduit par Jean-Louis Perret (18€).
+
+NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
+
+NOTE: Sources : de mes expériences, mes connaissances finlandaises et Internet
