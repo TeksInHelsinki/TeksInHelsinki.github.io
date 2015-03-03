@@ -1,6 +1,6 @@
 = Le Sport
 :hp-tags: Les tutos de Coleen, Point Culture, sport, hockey sur glace, Formule 1, ski
-:hp-image: https://TeksInHelsinki.github.com/images/article_covers/5.hebergement.jpg
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/6.sports.jpg
 :published_at: 2015-03-03-15:00
 
 === Le Hockey sur Glace
