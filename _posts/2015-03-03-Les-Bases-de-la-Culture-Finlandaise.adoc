@@ -1,6 +1,6 @@
 = Les Bases de la Culture Finlandaise
 :hp-tags: Point Culture, Sisu, sauna, nature, kalevala, culture
-:hp-image: https://TeksInHelsinki.github.com/images/article_covers/4.bases_culture2.jpg
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/4.bases_culture.jpg
 
 Le but de ce post est de vous renseigner sur certains points essentiels de la culture finlandaise !
 
