@@ -1,7 +1,7 @@
 = La Nourriture
 :hp-tags: Point Culture, nourriture, plats traditionnels
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/7.food1.jpg
-:published_at: 2015-03-03-18:20
+:published_at: 2015-03-03-23:00
 
 En tant que Français, on ne peut pas faire l'impasse sur cette importante partie de toute culture. Comme pour beaucoup de choses, la cuisine finlandaise est très inspirée de celle d'autres pays, notamment la Suède, mais ils ont quand même leurs plats typiques !
 
