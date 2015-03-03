@@ -7,14 +7,11 @@
 
 Le hockey sur glace est LE sport en Finlande. Un peu l'équivalent du foot en France, quoi.
 
-video::https://TeksInHelsinki.github.com/images/article_images/6.sport_hockey.webm
+video::https://TeksInHelsinki.github.com/images/article_images/6.sport_hockey.webm[options="nocontrols,autoplay,loop"]
 
 Quand vous allez faire du patin à glace dans l'une des nombreuses patinoires du coin (ou sur les lacs pour faire plus typique), vous verrez généralement des groupes de gens faire du hockey dans un coin. De nombreux jeunes le pratiquent en tant que sport hebdomadaire, même si c'est très cher.
 Évidemment, ils ont une équipe nationale qui a gagné la coupe du monde deux fois, en 1995 et 2011, et les Finlandais s'en souviennent toujours avec des larmes de joie dans les yeux.
 Enfin, la phrase "Ce n'est pas grave si on perd, tant qu'on bat les Suédois" est connue en général, mais plus particulièrement dans ce sport où les Suédois sont également très bon.
-
-http://9gag.com/gag/aNZzMwK
-
 
 === Le Ski (ou pas)
 
