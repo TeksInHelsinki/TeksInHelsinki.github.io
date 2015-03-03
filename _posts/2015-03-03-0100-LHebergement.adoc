@@ -1,6 +1,6 @@
 = L'Hébergement
 :hp-tags: Les tutos de Coleen, hébergement, appart, logement
-:hp-image: https://TeksInHelsinki.github.com/images/article_covers/4.bases_culture.jpg
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/5.hebergement.jpg
 :published_at: 2015-03-03-01:00
 
 
