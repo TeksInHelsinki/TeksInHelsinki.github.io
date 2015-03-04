@@ -7,7 +7,7 @@ En tant que Français, on ne peut pas faire l'impasse sur cette importante parti
 
 === Le Salmiakki !
 
-image::https://TeksInHelsinki.github.com/images/article_images/7.food_salmiakki.png[]
+image::https://TeksInHelsinki.github.com/images/article_images/7.food_salmiakki2.png[]
 
 Le salmiakki est une sorte de réglisse salé très largement répandu en Finlande, non seulement sous des formes très variées de bonbons (piquant ou pas, pastilles ou gommes...) mais également en glaces, chocolats, liqueurs etc. +
 Perso j'y suis accro, mais ce n'est pas au goût de tout le monde. A voir, link:https://www.youtube.com/watch?v=2jmFNoKjUDM[cette publicité pour la glace au Salmiakki] dont le slogan est "Le monde la déteste, les Finlandais l'adorent" et où on voit des gens la goûter et dire (en anglais) que c'est immangeable, puis des Finlandais dire (en finnois du coup) que c'est excellent ! +
@@ -15,7 +15,7 @@ Et c'est sensé être bon pour la santé, mais si vous en mangez trop vous aurez
 
 === Le Reine (_Poro_)
 
-image::https://TeksInHelsinki.github.com/images/article_images/7.food_poronkaristys.JPG[200,400]
+image::https://TeksInHelsinki.github.com/images/article_images/7.food_poronkaristys2.JPG[200,400]
 
 La viande de reine est assez répandue en Finlande, même si elle reste assez chère (n'allez pas imaginer qu'ils en mangent autant que du porc ou du poulet). C'est assez bon et neutre.
 
@@ -32,7 +32,7 @@ C'est à base d'eau, de farine et de malt de seigle, de mélasse et de sel, et l
 
 === Les Pains
 
-image::https://TeksInHelsinki.github.com/images/article_images/7.food_bread3.JPG[200, 400]
+image::https://TeksInHelsinki.github.com/images/article_images/7.food_bread2.JPG[200, 400]
 
 Même si on peut sûrement trouver de la baguette dans les supermarchés, la Finlande a des pains assez spéciaux qui valent le détour.
 
@@ -45,7 +45,7 @@ Enfin, le *pain de pomme de terres* (si si !), qui est assez plat également, et
 
 === L'Alcool
 
-image::https://TeksInHelsinki.github.com/images/article_images/7.food_alcool.png[300,300]
+image::https://TeksInHelsinki.github.com/images/article_images/7.food_alcool2.png[300,300]
 
 Un peu comme leurs voisins Russes, les Finlandais ont un rapport très... chaleureux avec l'alcool. Pas au point des Russes quand même, mais assez pour qu'il y ait des campagnes publicitaires pour expliquer aux gens que donner de l'alcool fort à des gamins, c'est _mal_.
 
