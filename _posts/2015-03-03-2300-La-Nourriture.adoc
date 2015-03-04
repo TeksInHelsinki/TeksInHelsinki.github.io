@@ -15,7 +15,7 @@ Et c'est sensé être bon pour la santé, mais si vous en mangez trop vous aurez
 
 === Le Reine (_Poro_)
 
-image::https://TeksInHelsinki.github.com/images/article_images/7.food_poronkaristys.JPG[]
+image::https://TeksInHelsinki.github.com/images/article_images/7.food_poronkaristys3.JPG[]
 
 La viande de reine est assez répandue en Finlande, même si elle reste assez chère (n'allez pas imaginer qu'ils en mangent autant que du porc ou du poulet). C'est assez bon et neutre.
 
@@ -32,7 +32,7 @@ C'est à base d'eau, de farine et de malt de seigle, de mélasse et de sel, et l
 
 === Les Pains
 
-image::https://TeksInHelsinki.github.com/images/article_images/7.food_bread3.JPG[200, 400]
+image::https://TeksInHelsinki.github.com/images/article_images/7.food_bread.JPG[]
 
 Même si on peut sûrement trouver de la baguette dans les supermarchés, la Finlande a des pains assez spéciaux qui valent le détour.
 
