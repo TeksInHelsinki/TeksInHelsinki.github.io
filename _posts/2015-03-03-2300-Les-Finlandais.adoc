@@ -1,4 +1,7 @@
 = Les Finlandais
+:hp-tags: Point Culture, nourriture, plats traditionnels
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/7.food1.jpg
+:published_at: 2015-03-03-23:00
 
 Un petit post sur le caractère des Finlandais !
 
