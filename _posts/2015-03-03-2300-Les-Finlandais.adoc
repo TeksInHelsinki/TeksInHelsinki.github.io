@@ -1,6 +1,6 @@
 = Les Finlandais
 :hp-tags: Point Culture, finlandais
-:hp-image: https://TeksInHelsinki.github.com/images/article_covers/7.food1.jpg
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/8.finns.jpg
 :published_at: 2015-03-03-23:00
 
 Un petit post sur le caractère des Finlandais !
@@ -81,3 +81,11 @@ Pour finir, il faut savoir que les Finlandais sont extrêmement fiers de leur pa
 Celà se voit par exemple le 6 décembre, jour de la fête nationale, où tout le monde sort pour faire la fête toute la journée en portant les couleurs du drapeau finlandais. +
 Les produits d'origine Finlandaise, marqués par link:http://www.kristallikuvio.fi/images/Kristallikuvio_Made_in_Finland.png[ce logo] sont largement consommés car les Finlandais semblent y voir une garantie de grande qualité.
 Et comme c'est un petit pays assez peu connus, dès qu'on parle d'eux à l'étranger, ils en font tout un plat :D
+
+NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
+
+NOTE: Sources : mes expériences, mes connaissances finlandaises et Internet
+
+NOTE: link:http://www.jocooks.com/bakery/breads/finnish-cardamom-rolls/[Crédit photo de couverture] +
+link:http://honestcooking.com/top-iconic-finnish-foods-time/[Photos de poronkäristys et de pain de seigle] +
+link:http://finnishproblems.tumblr.com/post/14561300328/from-sielukorpitar[Meme sur l'alcool et la Finlande]
