@@ -1,7 +1,7 @@
 = Le Sport
 :hp-tags: Les tutos de Coleen, Point Culture, sport, hockey sur glace, Formule 1, ski
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/6.sports.jpg
-:published_at: 2015-03-03-14:20
+:published_at: 2015-03-06
 
 Le sport est important pour de nombreux Finlandais. Voici donc un post présentant les principaux sports pratiqués en Finlande, et indiquant des endroits où on pourra nous aussi faire du sport !
 
