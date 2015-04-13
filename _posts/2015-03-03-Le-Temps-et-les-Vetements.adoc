@@ -1,7 +1,7 @@
 = Le Temps et les Vêtements
 :hp-tags: vie quotidienne, les tutos de Coleen, température, temps
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/3.temps_et_vetements.jpg
-:published_at: 2015-03-03-22:00
+:published_at: 2015-03-03
 
 La Finlande, c'est super froid, ça j'espère qu'on le sait tous ! Un peu plus de détails sur cela et comment s'y préparer ne fera néanmoins de mal à personne.
 
