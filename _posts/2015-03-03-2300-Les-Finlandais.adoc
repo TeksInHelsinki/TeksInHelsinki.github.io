@@ -77,7 +77,8 @@ Cela se voit à tout les niveaux : les Finlandais sont toujours à l'heure, et l
 
 === Déterminés et Travailleurs
 
-Les Finlandais, grâce à leur fameux sisu, sont déterminés et travailleurs. Ils sont réputés pour être “les meilleurs dans les pires situations”, que ce soit au niveau professionel ou quand il s'agit d'affronter deux mètres de neige au petit matin. +
+Les Finlandais, grâce à leur fameux sisu, sont déterminés et travailleurs. Ils sont réputés pour être “les meilleurs dans les pires situations”, que ce soit au niveau professionel ou quand il s'agit d'affronter deux mètres de neige au petit matin.
+
 Quand ils commencent quelque chose, ils n'abandonnent pas avant d'avoir fini et d'être satisfait du résultat. Et ils sont assez fiers de cette tendance !
 
 === Le Patriotisme
@@ -93,5 +94,4 @@ NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
 NOTE: Sources : mes expériences, mes connaissances finlandaises et Internet
 
 NOTE: link:http://yle.fi/uutiset/finns_on_finns_were_hard_working_but_greedy_and_intolerant/7370176[Crédit photo de couverture] +
-link:http://honestcooking.com/top-iconic-finnish-foods-time/[Photos de poronkäristys et de pain de seigle] +
-link:http://finnishproblems.tumblr.com/post/14561300328/from-sielukorpitar[Meme sur l'alcool et la Finlande]
+link:http://finnishproblems.tumblr.com/[Memes sur la Finlande]
