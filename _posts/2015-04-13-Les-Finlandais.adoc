@@ -1,7 +1,7 @@
 = Les Finlandais
 :hp-tags: Point Culture, finlandais
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/8.finns.jpg
-:published_at: 2015-04-13-11:50
+:published_at: 2015-04-13
 
 Un petit post sur le caractère des Finlandais !
 
