@@ -1,5 +1,6 @@
 # How to use asciidoc
-:some_label: lets add a label
+:some_label: don't forget me, i'm a label, I will be shown below =)
+:Author: Armand
 
 :hp-tags: how to use tags, #NotHashtag, But it doesn't work yet
 
@@ -20,6 +21,9 @@ so is this one
 
 {some_label}
 
+> Labels are usefull as a variable in C
+- {Author}
+
 
 ====
 this is usefull to quote something
@@ -28,6 +32,20 @@ this is usefull to quote something
 and yes, you can do this like this too
 ====
 
+
+wanna code? 
+
+[source,python]
+ if __name__ == "__main__"
+ 	print("Hell Yeah")
+
+[source,c]
+int main(int argc, char **argv)
+{
+	char *resonse = "Hell yeah";
+    	printf("%s", response);
+    	return 0;
+}
 
 *this is bold*
 
@@ -42,6 +60,7 @@ Author Name <link:github.com/ArmandDu[]> // how to do it
 Author Name <link:github.com/ArmandDu[Supreme leader]> // yes you can use label
 
 
+
 <h2> html? oh wait... </h2>
 
 
@@ -54,6 +73,5 @@ Author Name <link:github.com/ArmandDu[Supreme leader]> // yes you can use label
 
 
 NOTE: this is a note 
-
 
 
