@@ -1,0 +1,40 @@
+= La Musique #1 : Le Métal
+:hp-tags: Point Culture, musique, metal
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/9.metal.jpg
+:published_at: 2015-07-10
+
+La Finlande est bien sûr réputée pour son excellent métal, auquel j'ai décidé de consacrer un article !
+
+Honnêtement, c'était censé être un article sur la musique Finlandaise, et puis j'avais trop à écrire, donc la partie pop/rock viendra plus tard :) +
+Ce post est basé uniquement sur mes (pauvres) connaissances dans la matière, et reflète mes opinions. +
+Les sous-catégories de métal sont directement tirées de Wikipédia car, une fois encore, je ne suis pas une experte.
+
+=== Heavy Metal
+
+Au rendez-vous : des gens qui crient, des gros solos de guitare et des thèmes fort joyeux (ou pas).
+
+*_Children of Bodom_* +
+Ce groupe créé en 1993 et originaire d'Espoo (en banlieue d'Helsinki) est mon grand préféré, celui qui m'a fait découvrir le métal quand j'avais 14 ans. Décrits comme "death metal mélodique" ou "power metal", ils mèlent de magnifiques solo de guitares, les cris typiques du métal sur voix rauque, et des thèmes assez morbides. En effet, leur mascote, Roy, est une Faucheuse, leur nom fait référence à un massacre d'adolescents près d'Espoo, et il n'y a qu'à jeter un coup d'oeil aux chansons ci-dessous pour comprendre leur thème principal. +
+A écouter : link:https://www.youtube.com/watch?v=VSlTJ9YHdr0[Hate Crew Deathroll] / link:https://www.youtube.com/watch?v=HwfF9H2hzAE[Angels Don't Kill] / link:https://www.youtube.com/watch?v=EtPDm2kaj1c[Everytime I Die]
+
+*_Stratovarius_*
+
+Fondé en 1984, ce groupe de power metal n'a plus aucun de ses membres originels. +
+A écouter : link:https://www.youtube.com/watch?v=9-4Gm6VG4O0[Hunting High and Low] / link:https://www.youtube.com/watch?v=cfYkn1LAPKY[Unbreakable]
+
+=== Folk Metal
+
+Insipré de la musique traditionelle, de thèmes de leurs voisins les Vikings et parfois accompagnés d'instruments anciens, le folk metal est sûrement la branche du métal le plus accessibles au personnes ne suportant pas vraiment les cris étranglés.
+
+*_Turisas_*
+
+Nommés d'après un dieu de la guerre Finlandais, les membres de Turisas effectuent leurs concerts (et clips) couverts de peinture rouge et noire. Grâce à eux, vous pouvez réviser vos cours d'Histoire tout en écoutant de la (très) bonne musique ; en effet, nombre de leurs chansons parlent de l'Histoire Viking et notamment de la Garde Varangienne (un corps d'élite de l'armée byzantine notamment composé de guerriers Vikings), à laquelle ils consacrent un album entier. Groupe à écouter quand vous avez besoin d'ajouter de l'epicness à votre vie, ou de courage pour partir en guerre (on ne sait jamais). +
+A écouter : link:https://www.youtube.com/watch?v=WZ9OAe-aX7s[The March of the Varangian Guard] / link:https://www.youtube.com/watch?v=7woW7DmnR0E[Stand Up and Fight] / link:https://www.youtube.com/watch?v=MhgsqSBHA6M[Ten More Miles]
+
+
+
+NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
+
+NOTE: Sources : mes expériences, notamment inspirées par des amis (Finlandais ou pas) et Internet
+
+NOTE: link:http://www.noisypixels.com.au/2011/dark-side/live-music-photography/children-of-bodom-live-photography-perth/[Crédit photo de couverture]
