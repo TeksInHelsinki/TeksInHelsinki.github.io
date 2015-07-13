@@ -1,0 +1,18 @@
+= A propos de nous
+
+Un petit post pour nous présenter
+
+== Coline
+#todo ajouter About Coline
+
+== Armand
+#todo ajouter About Armand
+
+== Martin
+#todo ajouter About Martin
+
+== Benoît
+#todo ajouter About Benoît
+
+== Jérome
+#todo ajouter About Jérome
