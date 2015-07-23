@@ -3,7 +3,9 @@
 Un petit post pour nous présenter
 
 == Coline
-#todo ajouter About Coline
+Coline, aussi appelée "404" en raison de la couleur aléatoire de ses cheveux, a fait une licence d'anglais avant de s'éprendre d'informatique et de commencer Epitech - ce qui explique ses 24 ans. +
+Elle a choisit la Finlande car elle est fascinée par ce pays depuis ses 14 ans, et car c'est le pays de résidence de son amoureuse. Elle a hâte de marcher dans la neige, de pâtiner sur les lacs, d'apprendre le Finnois, d'adopter des rats, et d'étudier à Laurea. Elle est également très intéressée par la culture Finlandaise, sa mythologie, sa musique et sa littérature - et est enthousiaste à l'idée d'en découvrir plus ! +
+Enfin, c'est elle qui écrit la majorité des articles sur ce blog, donc n'hésitez pas à lui poser des questions si besoin !
 
 == Armand
 #todo ajouter About Armand
